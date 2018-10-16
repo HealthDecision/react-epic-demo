@@ -1,6 +1,6 @@
 # Sample React App for the 2018 Epic App Orchard Presentation
 
-This respository contains a simple demo [React](https://reactjs.org/) application to access SMART/FHIR-based data from the Epic App Orchard.  This demo was used by [Farhan Ahmad](http://github.com/thebitguru) ([HealthDecision](https://www.healthdecision.com)) during his presentation titled "App Architecture to Reassure CSOs: SPAs in React" at the [2018 Epic App Orchard Conference](https://apporchard.epic.com/Conference).
+This repository contains a simple demo [React](https://reactjs.org/) application to access SMART/FHIR-based data from the Epic App Orchard.  This demo was used by [Farhan Ahmad](http://github.com/thebitguru) ([HealthDecision](https://www.healthdecision.com)) during his presentation titled "App Architecture to Reassure CSOs: SPAs in React" at the [2018 Epic App Orchard Conference](https://apporchard.epic.com/Conference).
 
 To keep the demo simple, some values are hard coded after retrieving the actual FHIR resources.  In addition to the actual workflow, the code also contains some dummy data that can used without an actual EHR.
 
