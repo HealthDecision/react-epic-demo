@@ -1,7 +1,7 @@
 {
   "main.css": "/react-epic-demo/static/css/main.804babba.chunk.css",
-  "main.js": "/react-epic-demo/static/js/main.d188bf47.chunk.js",
-  "main.js.map": "/react-epic-demo/static/js/main.d188bf47.chunk.js.map",
+  "main.js": "/react-epic-demo/static/js/main.a6aa2d48.chunk.js",
+  "main.js.map": "/react-epic-demo/static/js/main.a6aa2d48.chunk.js.map",
   "static/css/1.d1234c2a.chunk.css": "/react-epic-demo/static/css/1.d1234c2a.chunk.css",
   "static/js/1.e36f0520.chunk.js": "/react-epic-demo/static/js/1.e36f0520.chunk.js",
   "static/js/1.e36f0520.chunk.js.map": "/react-epic-demo/static/js/1.e36f0520.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.804babba.chunk.css.map": "/react-epic-demo/static/css/main.804babba.chunk.css.map",
   "static/css/1.d1234c2a.chunk.css.map": "/react-epic-demo/static/css/1.d1234c2a.chunk.css.map",
   "index.html": "/react-epic-demo/index.html",
-  "precache-manifest.cab94a291f0050daf7f42eff04a0c25a.js": "/react-epic-demo/precache-manifest.cab94a291f0050daf7f42eff04a0c25a.js",
+  "precache-manifest.6aa29db00833ff1c54b02b3cf9fa0f1a.js": "/react-epic-demo/precache-manifest.6aa29db00833ff1c54b02b3cf9fa0f1a.js",
   "service-worker.js": "/react-epic-demo/service-worker.js"
 }
